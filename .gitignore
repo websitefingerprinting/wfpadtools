@@ -28,3 +28,4 @@ MANIFEST
 *.swo
 /TODO
 /tmp/
+tor-config
